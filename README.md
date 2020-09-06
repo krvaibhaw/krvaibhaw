@@ -5,9 +5,9 @@
 
 Here are some ideas to get you started:
 
-- 💻 Currently working on: It's secret! 😯
-- 📔 Currently learning: AI and Human Computer Interaction
-- 📬 Reach me: kvaibhaw99@gmail.com
+💻 Currently working on: It's secret! 😯
+📔 Currently learning: AI and Human Computer Interaction
+📬 Reach me: kvaibhaw99@gmail.com
 
 
 - 🌱 I’m currently learning ...
