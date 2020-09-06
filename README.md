@@ -1,5 +1,9 @@
 # Hi there 👋
 
+💻 Currently working on: It's secret! 😯
+📔 Currently learning: AI and Human Computer Interaction
+📬 Reach me: kvaibhaw99@gmail.com
+
 <!--
 **krvaibhaw/krvaibhaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
