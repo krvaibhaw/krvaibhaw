@@ -1,8 +1,9 @@
-# Hi there 👋
+### Hi there 👋
 
 - 💻 Currently working on: It's secret! 😯 <br>
 - 📔 Currently learning: AI and Human Computer Interaction <br>
 - 📬 Reach me: kvaibhaw99@gmail.com <br>
+- ⚡ Fun fact: There are more possible iterations of a game of chess than there are atoms in the known universe.
 
 <!--
 **krvaibhaw/krvaibhaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
