@@ -2,7 +2,7 @@
 
 - 💻 Currently working on: It's secret! 😯 <br>
 - 📔 Currently learning: AI and Human Computer Interaction <br>
-- 📬 Reach me: kvaibhaw99@gmail.com <br>
+- 📬 Reach me: @kr_vaibhaw <br>
 - ⚡ Fun fact: There are more possible iterations of a game of chess than there are atoms in the known universe.
 
 <!--
